@@ -1,4 +1,4 @@
-# Run the MCP server
+MCP_TRANSPORT=http uv run mcp-server# Run the MCP server
 
 Clone and run:
 
